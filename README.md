@@ -45,22 +45,35 @@ Atualmente cursando o 1º semestre de Engenharia De Software na Universidade da 
 ### 📂 Portfólio de Projetos
  
 #### Programação de Computadores
-| Projeto | Descrição | Link |
+| Projeto 1| Descrição | Link |
 | :--- | :--- | :---: |
 | ** Algoritmo de Auditoria de Dados** | um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./data-audit-algorithm/) |
 
-| Projeto | Descrição | Link |
+| Projeto 2| Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** | Engenharia de Soluções Lógicas | [Ver Projeto](./engenh-solu-logic/) |
+| **Engenharia de Soluções Lógicas** | Engenharia de Soluções Lógicas cria sistemas eficientes usando programação, algoritmos e raciocínio lógico para resolver problemas tecnológicos e automatizar processos.| [Ver Projeto](./engenh-solu-logic/) |
 
-| Projeto | Descrição | Link |
+| Projeto 3| Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Auditoria de Recursos Corporativos** | Sistema de Auditoria de Recursos Corporativos. | [Ver Projeto](./corp-data-audit-system/) |
+| **Modularizaçãos** | Modularização organiza sistemas em partes independentes chamadas módulos, facilitando manutenção, reutilização de código, testes e desenvolvimento eficiente de soluções lógicas. | [Ver Projeto](./mod-lac/) |
 
-| Projeto | Descrição | Link |
+| Projeto 4| Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Auditoria de Recursos Corporativos** | Sistema de Auditoria de Recursos Corporativos. | [Ver Projeto](./corp-data-audit-system/) |
+| **Traduzindo Lógica para Python** | Traduzir lógica para Python significa transformar ideias e soluções em códigos organizados, usando algoritmos, funções e estruturas para resolver problemas. | [Ver Projeto](./tra-log-pyth/) |
  
+| Projeto 5| Descrição | Link |
+| :--- | :--- | :---: |
+| **Engenharia de Contexto e Lógica Física** | Traduzir lógica para Python significa transformar ideias e soluções em códigos organizados, usando algoritmos, funções e estruturas para resolver problemas. | [Ver Projeto](./eng-contx-log-fis/) |
+ 
+| Projeto 6| Descrição | Link |
+| :--- | :--- | :---: |
+| **Desenhando Emojis com Dados** | Traduzir lógica para Python significa transformar ideias e soluções em códigos organizados, usando algoritmos, funções e estruturas para resolver problemas. | [Ver Projeto](./desen-emoji/) |
+
+| Projeto 8| Descrição | Link |
+| :--- | :--- | :---: |
+| **Sistema de Auditoria de Recursos Corporativos** | Traduzir lógica para Python significa transformar ideias e soluções em códigos organizados, usando algoritmos, funções e estruturas para resolver problemas. | [Ver Projeto](./sist-aud-recu-corpo/) |
+
+
 #### Engenharia de Prompt e aplicações em IA
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
