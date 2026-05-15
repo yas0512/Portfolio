@@ -47,7 +47,7 @@ Atualmente cursando o 1º semestre de Engenharia De Software na Universidade da 
 #### Programação de Computadores
 | Projeto 1| Descrição | Link |
 | :--- | :--- | :---: |
-| ** Algoritmo de Auditoria de Dados** | um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./data-audit-algorithm/) |
+| **Algoritmo de Auditoria de Dados** | um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./data-audit-algorithm/) |
 
 | Projeto 2| Descrição | Link |
 | :--- | :--- | :---: |
@@ -59,19 +59,19 @@ Atualmente cursando o 1º semestre de Engenharia De Software na Universidade da 
 
 | Projeto 4| Descrição | Link |
 | :--- | :--- | :---: |
-| **Traduzindo Lógica para Python** | Traduzir lógica para Python significa transformar ideias e soluções em códigos organizados, usando algoritmos, funções e estruturas para resolver problemas. | [Ver Projeto](./tra-log-pyth/) |
+| **Traduzindo Lógica para Python** | Traduzir lógica para Python é transformar ideias, regras e soluções em códigos organizados, usando comandos, funções e algoritmos para resolver problemas computacionais. | [Ver Projeto](./traduzir-logica-python/) |
  
 | Projeto 5| Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Contexto e Lógica Física** | Traduzir lógica para Python significa transformar ideias e soluções em códigos organizados, usando algoritmos, funções e estruturas para resolver problemas. | [Ver Projeto](./eng-contx-log-fis/) |
+| **Engenharia de Contexto e Lógica Física** | Engenharia de Contexto e Lógica Física transforma situações reais em modelos lógicos para sistemas computacionais. | [Ver Projeto](./eng-contx-log-fis/) |
  
 | Projeto 6| Descrição | Link |
 | :--- | :--- | :---: |
-| **Desenhando Emojis com Dados** | Traduzir lógica para Python significa transformar ideias e soluções em códigos organizados, usando algoritmos, funções e estruturas para resolver problemas. | [Ver Projeto](./desen-emoji/) |
+| **Desenhando Emojis com Dados** | Desenhar emojis com dados em Python é criar imagens usando matrizes de pixels (RGB), manipulando listas e tuplas para formar padrões visuais que representam figuras. | [Ver Projeto](./desen-emoji/) |
 
-| Projeto 8| Descrição | Link |
+| Projeto 7| Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Auditoria de Recursos Corporativos** | Traduzir lógica para Python significa transformar ideias e soluções em códigos organizados, usando algoritmos, funções e estruturas para resolver problemas. | [Ver Projeto](./sist-aud-recu-corpo/) |
+| **Sistema de Auditoria de Recursos Corporativos** | Sistema de Auditoria de Recursos Corporativos monitora, controla e analisa recursos empresariais com eficiência e transparência. | [Ver Projeto](./sist-aud-recu-corpo/) |
 
 
 #### Engenharia de Prompt e aplicações em IA
